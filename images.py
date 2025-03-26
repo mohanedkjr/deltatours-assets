@@ -25,5 +25,5 @@ def generate_json_for_images(main_folder):
             print(f"Created: {json_path}")
 
 # Usage: Replace 'your_main_folder_path' with the actual path
-main_folder = "C:/Users/mohan/Downloads/ImageAssistant_Batch_Image_Downloader/sites.google.com"
+main_folder = "C:/Users/mohan/OneDrive/Documents/GitHub/deltatours-assets"
 generate_json_for_images(main_folder)
